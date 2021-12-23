@@ -2,4 +2,6 @@
 
 **Previously, I have worked as a deep learning research and development intern at the Intel Corporation under Dr. Nico Galoppo. I also had the pleasure of working on perception problems for CurbSide.ai, a startup company that sought to improve the safety of dockless electric vehicles.**
 
+**[CV](/assets/pdf/Blair_Johnson_CV_Website.pdf) | [Artifacts](/artifacts.md)**
+
 ## Projects

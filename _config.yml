@@ -1,5 +1,7 @@
 # global settings
 title: "Blair Johnson"
+logo: /assets/img/headshot_banff.jpg
 description: "Academic Website"
+
 
 theme: jekyll-theme-minimal

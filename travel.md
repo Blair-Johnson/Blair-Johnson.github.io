@@ -8,3 +8,5 @@
 
 <p style="text-align: justify;"><em>2021</em> - This picture was taken during a weekend trip to the Jungfrau region of the Bernese Alps. It's a beautiful and scary place to learn to ski.</p>
 <img src="/assets/img/travel/IMG_0282-min.jpg" alt="jungfrau skiing" width="800" class="center">
+
+[return to home.](/index.html)

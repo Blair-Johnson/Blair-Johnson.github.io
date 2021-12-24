@@ -23,9 +23,10 @@ Previously, I have worked as a deep learning research and development intern at 
 </tr>
 -->
 <!-- Entry -->
-<tr>
-<td>
-<img src="/assets/img/artifacts/ratatoullie_thumb.png" width="150" align="left">
+<!--<tr>
+<td>-->
+<img src="/assets/img/artifacts/ratatoullie_thumb.png" width="120" align="left">
 <td class="detail"><p><b id="papertitle">Risk-aware Triage to Attenuate Observational Uncertainty in Intelligence Environments</b><br />Blair Johnson*, Christine Herlihy*, Jason Poovey <br />
 <i>GTRI IRAD Journal 2020</i><br />
-
+<!--</td>
+</tr>-->

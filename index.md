@@ -3,8 +3,10 @@ I am a current undergraduate studying Electrical Engineering in the [Department 
 Previously, I have worked as a deep learning research and development intern at the Intel Corporation under Dr. Nico Galoppo. I also had the pleasure of working on perception problems for CurbSide.ai, a startup company that sought to improve the safety of dockless electric vehicles.
 
 ## Research Interests
-**Robotic Perception:** For robotic agents to solve the general problem of perception, they will need to discover both abstract and physical properties of their environment. Humans form internal representations of perceived objects that encode abstract concept hierarchies on top of physical property estimation. These representations inform how we plan and execute tasks, and I am interested in how future computer vision systems can create equally extensible and efficient representations.
-
+**Robotic Perception:** For robotic agents to solve the general problem of perception, they will need to discover both abstract and physical properties of their environment. Human perception is multimodal, compositional, contextual, and abstract. With sufficient experience, a single sensory input such as vision can support accurate estimation of location, material, mass, structure, dynamics, pattern, class, relationship, function, etc. Humans can even theorize about the identity and function of previously unknown or visually distinct objects though context and analogy. This ability to infer such rich, high-level representations from raw sensory data goes well beyond the traditional tasks of computer vision; it motivates the need for perception systems that rediscover the myriad concepts necessary to communicate with and operate alongside humans in the real world. 
+<!--
+For robotic agents to solve the general problem of perception, they will need to discover both abstract and physical properties of their environment. Humans form internal representations of perceived objects that encode abstract concept hierarchies on top of physical property estimation. These representations inform how we plan and execute tasks, and I am interested in how future computer vision systems can create equally extensible and efficient representations.
+-->
 ## Publications
 <!-- Entry -->
 <!-- Example from Angjoo Kanazawa

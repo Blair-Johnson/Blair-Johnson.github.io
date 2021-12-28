@@ -6,5 +6,4 @@
   <i>December 12, 2020</i><br /></p>
 
 <br/><br/><br/><br/><br/>
-
-[return to home.](/index.html)
+<a href="/index.html">return to home.</a>

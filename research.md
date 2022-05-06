@@ -1,7 +1,7 @@
 [return to home.](/index.md)
 
 ## Research
-<a href="/assets/pdf/Neurally_Guided_Search_Writeup.pdf"><img src="/assets/img/artifacts/lstm.png" width="200" align="left" hspace="5"></a>
+<a href="/assets/pdf/Neurally_Guided_Search_Writeup.pdf"><img src="/assets/img/artifacts/lstm.png" width="200" align="left" hspace="7"></a>
 <td class="detail"><p><a href="/assets/pdf/Neurally_Guided_Search_Writeup.pdf">Deep Symbolic Regression</a>: Generating symbolic equations from numerical data using deep reinforcement learning. This was my final project for ECE 6254: Statistical Machine Learning, with professor <a href="https://mdav.ece.gatech.edu/index.html">Mark Davenport</a>.<br />
 <i>May 6, 2022</i><br /></p>
 <br><br/>

@@ -1,6 +1,9 @@
 [return to home.](/index.md)
 
 ## Artifacts
+
+<p style="text-align: justify;"><em>2025</em> - I've gotten into CNC milling! Here's <a href="/cutcalculator/milling.html">a useful speeds and feeds calculator</a> that I forked from <a href="https://github.com/joevenzon/cutcalculator">joevenzon/cutcalculator</a>.</p> 
+
 This is a test of MathJax, enjoy the 1D CT Fourier Transform: \\( F(\omega)=\int_{-\infty}^{\infty} f(t)e^{-j\omega t} \,dt \\)
 
 <p style="text-align: justify;"><em>2021</em> - This is a short, satirical electronic music concert titled "The Sound of Molecules", by my brilliant friend Walker Smith, a Chemistry and Music student at Indiana University. I consulted on aspects of the digital signal processing for this project.</p> 

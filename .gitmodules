@@ -1,0 +1,3 @@
+[submodule "cutcalculator"]
+	path = cutcalculator
+	url = https://github.com/Blair-Johnson/cutcalculator.git

@@ -1,6 +1,7 @@
 [return to home.](/index.md)
 
 ## Artifacts
+<p style="text-align: justify;"><em>2025</em> - I wanted an easy way to reproduce handwriting and drawings on a CNC plotter. <a href="/plotter/index.html">This tool</a> that I made will let you export your drawings as GCode while preserving the velocity and order in which the strokes were made. It helps make plotted text and doodles look like convincing handwriting. I recommend making your drawings on a tablet for the best results. Remember to check your GCode before running it; I have only tested this on my machine. Happy drawing!</p> 
 
 <p style="text-align: justify;"><em>2025</em> - I've gotten into CNC milling! Here's <a href="/cutcalculator/milling.html">a useful speeds and feeds calculator</a> that I forked from <a href="https://github.com/joevenzon/cutcalculator">joevenzon/cutcalculator</a>.</p> 
 

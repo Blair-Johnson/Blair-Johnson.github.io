@@ -1,3 +1,6 @@
 [submodule "cutcalculator"]
 	path = cutcalculator
 	url = https://github.com/Blair-Johnson/cutcalculator.git
+[submodule "plotter"]
+	path = plotter
+	url = https://github.com/Blair-Johnson/plotter.git
